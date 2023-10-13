@@ -1,0 +1,386 @@
+{
+  "X-UA-Compatible": {
+    "attrs": {
+      "content": "IE=edge,chrome=1",
+      "httpEquiv": "X-UA-Compatible"
+    },
+    "tagName": "meta"
+  },
+
+  "alternate icon": {
+    "attrs": {
+      "href": "favicon.ico",
+      "rel": "alternate icon"
+    },
+    "pathName": "faviconPath",
+    "tagName": "link"
+  },
+
+  "apple-mobile-web-app-capable": {
+    "attrs": {
+      "content": "yes",
+      "name": "apple-mobile-web-app-capable"
+    },
+    "tagName": "meta"
+  },
+
+  "apple-mobile-web-app-status-bar-style": {
+    "attrs": {
+      "content": "black-translucent",
+      "name": "apple-mobile-web-app-status-bar-style"
+    },
+    "tagName": "meta"
+  },
+
+  "apple-mobile-web-app-title": {
+    "attrs": {
+      "content": "Project",
+      "name": "apple-mobile-web-app-title"
+    },
+    "tagName": "meta"
+  },
+
+  "apple-touch-icon": {
+    "attrs": {
+      "rel": "apple-touch-icon",
+      "type": "image/png"
+    },
+    "list": {
+      "items": [
+        { "href": "apple-icon.png", "sizes": "" },
+        { "href": "apple-touch-icon-40x40.png", "sizes": "40x40" },
+        { "href": "apple-touch-icon-57x57.png", "sizes": "57x57" },
+        { "href": "apple-touch-icon-58x58.png", "sizes": "58x58" },
+        { "href": "apple-touch-icon-60x60.png", "sizes": "60x60" },
+        { "href": "apple-touch-icon-72x72.png", "sizes": "72x72" },
+        { "href": "apple-touch-icon-76x76.png", "sizes": "76x76" },
+        { "href": "apple-touch-icon-80x80.png", "sizes": "80x80" },
+        { "href": "apple-touch-icon-87x87.png", "sizes": "87x87" },
+        { "href": "apple-touch-icon-114x114.png", "sizes": "114x114" },
+        { "href": "apple-touch-icon-120x120.png", "sizes": "120x120" },
+        { "href": "apple-touch-icon-144x144.png", "sizes": "144x144" },
+        { "href": "apple-touch-icon-152x152.png", "sizes": "152x152" },
+        { "href": "apple-touch-icon-167x167.png", "sizes": "167x167" },
+        { "href": "apple-touch-icon-180x180.png", "sizes": "180x180" },
+        { "href": "apple-touch-icon-1024x1024.png", "sizes": "1024x1024" }
+      ]
+    },
+    "pathName": "faviconPath",
+    "tagName": "link"
+  },
+
+  "apple-touch-icon-precomposed": {
+    "attrs": {
+      "rel": "apple-touch-icon-precomposed",
+      "type": "image/png"
+    },
+    "list": {
+      "items": [
+        { "href": "apple-icon.png", "sizes": "" },
+        { "href": "apple-touch-icon-40x40.png", "sizes": "40x40" },
+        { "href": "apple-touch-icon-57x57.png", "sizes": "57x57" },
+        { "href": "apple-touch-icon-58x58.png", "sizes": "58x58" },
+        { "href": "apple-touch-icon-60x60.png", "sizes": "60x60" },
+        { "href": "apple-touch-icon-72x72.png", "sizes": "72x72" },
+        { "href": "apple-touch-icon-76x76.png", "sizes": "76x76" },
+        { "href": "apple-touch-icon-80x80.png", "sizes": "80x80" },
+        { "href": "apple-touch-icon-87x87.png", "sizes": "87x87" },
+        { "href": "apple-touch-icon-114x114.png", "sizes": "114x114" },
+        { "href": "apple-touch-icon-120x120.png", "sizes": "120x120" },
+        { "href": "apple-touch-icon-144x144.png", "sizes": "144x144" },
+        { "href": "apple-touch-icon-152x152.png", "sizes": "152x152" },
+        { "href": "apple-touch-icon-167x167.png", "sizes": "167x167" },
+        { "href": "apple-touch-icon-180x180.png", "sizes": "180x180" },
+        { "href": "apple-touch-icon-1024x1024.png", "sizes": "1024x1024" }
+      ]
+    },
+    "pathName": "faviconPath",
+    "tagName": "link"
+  },
+
+  "apple-touch-startup-image": {
+    "attrs": {
+      "content": "apple-touch-startup-image",
+      "href": "apple-touch-icon-1024x1024.png"
+    },
+    "pathName": "faviconPath",
+    "tagName": "link"
+  },
+
+  "application-name": {
+    "attrs": {
+      "content": "Project",
+      "name": "application-name"
+    },
+    "tagName": "meta"
+  },
+
+  "article:author": {
+    "attrs": {
+      "content": "",
+      "property": "article:author"
+    },
+    "tagName": "meta"
+  },
+
+  "article:published_time": {
+    "attrs": {
+      "content": "Project",
+      "name": "article:published_time"
+    },
+    "tagName": "meta"
+  },
+
+  "author": {
+    "attrs": {
+      "content": "Project",
+      "name": "creator"
+    },
+    "tagName": "meta"
+  },
+
+  "author2": {
+    "attrs": {
+      "href": "",
+      "rel": "author"
+    },
+    "tagName": "meta"
+  },
+
+  "canonical": {
+    "attrs": {
+      "href": "",
+      "rel": "canonical"
+    },
+    "tagName": "link"
+  },
+
+  "description": {
+    "attrs": {
+      "content": "Project",
+      "name": "description"
+    },
+    "tagName": "meta"
+  },
+
+  "format-detection": {
+    "list": {
+      "items": [
+        { "content": "address=no", "name": "format-detection" },
+        { "content": "email=no", "name": "format-detection" },
+        { "content": "telephone=no", "name": "format-detection" },
+        { "content": "date=no", "name": "format-detection" }
+      ]
+    },
+    "tagName": "meta"
+  },
+
+  "icon": {
+    "attrs": {
+      "rel": "icon",
+      "type": "image/png"
+    },
+    "list": {
+      "items": [
+        { "href": "favicon-without-bg.png", "sizes": "" },
+        { "href": "favicon-16x16.png", "sizes": "16x16" },
+        { "href": "favicon-32x32.png", "sizes": "32x32" },
+        { "href": "favicon-96x96.png", "sizes": "96x96" },
+        { "href": "favicon-128x128.png", "sizes": "128x128" },
+        { "href": "favicon-192x192.png", "sizes": "192x192" },
+        { "href": "favicon-194x194.png", "sizes": "194x194" },
+        { "href": "favicon-196x196.png", "sizes": "196x196" }
+      ]
+    },
+    "pathName": "faviconPath",
+    "tagName": "link"
+  },
+
+  "icon2": {
+    "attrs": {
+      "href": "favicon-with-bg.svg",
+      "rel": "icon",
+      "type": "image/svg+xml"
+    },
+    "pathName": "faviconPath",
+    "tagName": "link"
+  },
+
+  "keywords": {
+    "attrs": {
+      "content": "Project",
+      "name": "keywords"
+    },
+    "tagName": "meta"
+  },
+
+  "manifest": {
+    "attrs": {
+      "crossOrigin": "use-credentials",
+      "href": "./manifest.json",
+      "rel": "manifest"
+    },
+    "tagName": "link"
+  },
+
+  "mask-icon": {
+    "attrs": {
+      "color": "#ffffff",
+      "href": "favicon-without-bg.svg",
+      "rel": "mask-icon"
+    },
+    "pathName": "faviconPath",
+    "tagName": "link"
+  },
+
+  "msapplication1": {
+    "list": {
+      "items": [
+        { "content": "Project", "name": "msapplication-tooltip" },
+        { "content": "/", "name": "msapplication-starturl" },
+        { "content": "#ffffff", "name": "msapplication-TileColor" },
+        { "content": "./browserconfig.xml", "name": "msapplication-config" }
+      ]
+    },
+    "pathName": "faviconPath",
+    "tagName": "meta"
+  },
+
+  "msapplication2": {
+    "list": {
+      "items": [
+        { "content": "ms-icon-310x310.png", "name": "msapplication-TileImage" },
+        {
+          "content": "mstile-70x70.png",
+          "name": "msapplication-square70x70logo"
+        },
+        {
+          "content": "mstile-150x150.png",
+          "name": "msapplication-square150x150logo"
+        },
+        {
+          "content": "msapplicationWide310x150logo.png",
+          "name": "msapplication-wide310x150logo"
+        },
+        {
+          "content": "ms-icon-310x310.png",
+          "name": "msapplication-square310x310logo"
+        }
+      ]
+    },
+    "pathName": "faviconPath",
+    "tagName": "meta"
+  },
+
+  "og:image": {
+    "attr": "property",
+    "list": {
+      "items": [
+        {
+          "og:image": "project-screen.png",
+          "og:image:alt": "Project",
+          "og:image:height": "1024",
+          "og:image:width": "1024"
+        }
+      ]
+    },
+    "pathName": "imgPath",
+    "tagName": "meta"
+  },
+
+  "og:locale": {
+    "attrs": {
+      "content": "en_US",
+      "property": "og:locale"
+    },
+    "tagName": "meta"
+  },
+
+  "og:site_name": {
+    "attrs": {
+      "content": "Project",
+      "property": "og:site_name"
+    },
+    "tagName": "meta"
+  },
+
+  "og:title": {
+    "attrs": {
+      "content": "Project",
+      "property": "og:title"
+    },
+    "tagName": "meta"
+  },
+
+  "og:url": {
+    "attrs": {
+      "content": "Project",
+      "property": "og:url"
+    },
+    "tagName": "meta"
+  },
+
+  "publisher": {
+    "attrs": {
+      "content": "Project",
+      "name": "publisher"
+    },
+    "tagName": "meta"
+  },
+
+  "theme-color": {
+    "attrs": {
+      "content": "#ffffff",
+      "name": "theme-color"
+    },
+    "tagName": "meta"
+  },
+
+  "twitter:card": {
+    "attrs": {
+      "content": "summary",
+      "name": "twitter:card"
+    },
+    "tagName": "meta"
+  },
+
+  "twitter:description": {
+    "attrs": {
+      "content": "Project",
+      "name": "twitter:description"
+    },
+    "tagName": "meta"
+  },
+
+  "twitter:image": {
+    "attr": "name",
+    "list": {
+      "items": [
+        {
+          "twitter:image": "project-share-screen.png",
+          "twitter:image:alt": "Project",
+          "twitter:image:height": "1024",
+          "twitter:image:width": "1024"
+        }
+      ]
+    },
+    "pathName": "imgPath",
+    "tagName": "meta"
+  },
+
+  "twitter:title": {
+    "attrs": {
+      "content": "Project",
+      "name": "twitter:title"
+    },
+    "tagName": "meta"
+  },
+
+  "viewport": {
+    "attrs": {
+      "content": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=yes",
+      "name": "viewport"
+    },
+    "tagName": "meta"
+  }
+}
